@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WiccyShackleton
-- 👀 I’m interested in PHP,  Python MySQL,  speech synthesis,  Computer music,  and a whole lot more.
+- 👀 I’m interested in PHP,  Python, MySQL,  LSL, speech synthesis,  Computer music,  and a whole lot more.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... nothing at present.  I am currently the head developer at TeuluBreedables in SecondLife.
 - 📫 How to reach me ... For TeuluBreedables related support,  contact a TeuluBreedables CSR in SecondLife.   
